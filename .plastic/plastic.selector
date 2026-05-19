@@ -1,0 +1,4 @@
+repository "Homeless-Simulator/Life is hard@6872848167802@cloud"
+  path "/"
+    br "/main"
+    co "/main"

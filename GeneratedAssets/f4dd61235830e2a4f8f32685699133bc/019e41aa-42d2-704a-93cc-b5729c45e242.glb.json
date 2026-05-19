@@ -1,0 +1,23 @@
+{
+    "asset": "f4dd61235830e2a4f8f32685699133bc",
+    "fileName": "019e41aa-42d2-704a-93cc-b5729c45e242.glb",
+    "prompt": "Stylized neon pizza sign, matching reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "a8d16da8d55d8d04ebdbed6589d39984",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

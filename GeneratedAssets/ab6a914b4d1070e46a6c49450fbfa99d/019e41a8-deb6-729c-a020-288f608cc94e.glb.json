@@ -1,0 +1,23 @@
+{
+    "asset": "ab6a914b4d1070e46a6c49450fbfa99d",
+    "fileName": "019e41a8-deb6-729c-a020-288f608cc94e.glb",
+    "prompt": "Stylized trash bag, matching reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "68b156d8c2324f74fad53e223aa766cd",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

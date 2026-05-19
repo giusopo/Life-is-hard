@@ -1,0 +1,23 @@
+{
+    "asset": "77addc608d86aaf49aa2b2d9e26a682c",
+    "fileName": "019e41bd-a787-7d7d-92d0-fb6b76843f26.glb",
+    "prompt": "Stylized NYC rich apartment building, low poly, semi-cartoon, clean shapes, matching reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "121033a7a3765f3409802d20a7a64705",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

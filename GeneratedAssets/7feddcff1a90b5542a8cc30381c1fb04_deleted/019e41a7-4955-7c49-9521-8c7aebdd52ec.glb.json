@@ -1,0 +1,23 @@
+{
+    "asset": "7feddcff1a90b5542a8cc30381c1fb04",
+    "fileName": "019e41a7-4955-7c49-9521-8c7aebdd52ec.glb",
+    "prompt": "Stylized New York City road segment, matching reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "b98c6012efa29c74d9b3f478b423d204",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

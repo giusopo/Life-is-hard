@@ -1,0 +1,23 @@
+{
+    "asset": "4e0f957e96e6e1146b3260f5fcc27957",
+    "fileName": "019e41a7-8460-7ae5-a7f9-c1165530fb4a.glb",
+    "prompt": "Stylized New York City sidewalk segment, matching reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "649ffedc389737c4aaafbc1888f0da3c",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

@@ -1,0 +1,28 @@
+{
+    "asset": "950e671758d63a647b2441f7de21a84b",
+    "fileName": "019e41a4-4e12-76b9-91e3-0412ad587766.jpg",
+    "prompt": "Stylized New York City subway entrance, green metal railings, semi-cartoon, clean shapes, low poly, Lower Manhattan style, white background, isometric view.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

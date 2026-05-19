@@ -1,0 +1,28 @@
+{
+    "asset": "121033a7a3765f3409802d20a7a64705",
+    "fileName": "019e4180-eb9d-7d61-bf62-577226947ebe.jpg",
+    "prompt": "Concept art for a modern luxury apartment building in NYC, clean sidewalks, low poly, front view, isolated on white background.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

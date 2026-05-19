@@ -1,0 +1,28 @@
+{
+    "asset": "3f256c46e9795544fa86f7d10e7f51aa",
+    "fileName": "019e4180-ed24-7d14-82f8-4d8d4027fc5f.jpg",
+    "prompt": "Concept art for a stylized burn barrel with glowing fire inside, rusty metal, low poly, isolated on white background.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

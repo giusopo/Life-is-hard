@@ -1,0 +1,23 @@
+{
+    "asset": "1ba7bb3db32f23d47b2c9950a8489c2a",
+    "fileName": "019e41ac-5595-7cf9-9aa5-9c1e38020322.glb",
+    "prompt": "Stylized Park Bench, matching reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "144b98852e5bff247b4f3b9c3b284935",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

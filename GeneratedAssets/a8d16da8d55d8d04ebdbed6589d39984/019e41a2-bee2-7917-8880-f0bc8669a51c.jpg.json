@@ -1,0 +1,28 @@
+{
+    "asset": "a8d16da8d55d8d04ebdbed6589d39984",
+    "fileName": "019e41a2-bee2-7917-8880-f0bc8669a51c.jpg",
+    "prompt": "Stylized neon pizza sign, glowing, semi-cartoon, clean shapes, low poly, white background, front view.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

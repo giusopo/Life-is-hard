@@ -1,0 +1,28 @@
+{
+    "asset": "01d81c2edbd7ad443a5c5a7ba93a525c",
+    "fileName": "019e4180-214d-7176-9b65-970a7a17bd5e.jpg",
+    "prompt": "Concept art for a NYC Subway entrance stairs, green iron railings, stylized, low poly, urban atmosphere, side view, isolated on white background.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

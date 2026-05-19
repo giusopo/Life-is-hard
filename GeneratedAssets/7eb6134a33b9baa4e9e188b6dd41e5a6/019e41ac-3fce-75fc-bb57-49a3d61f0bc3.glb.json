@@ -1,0 +1,23 @@
+{
+    "asset": "7eb6134a33b9baa4e9e188b6dd41e5a6",
+    "fileName": "019e41ac-3fce-75fc-bb57-49a3d61f0bc3.glb",
+    "prompt": "Stylized Oak Tree, matching reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "9e33e8f88fec3404fa70ea2228068a52",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

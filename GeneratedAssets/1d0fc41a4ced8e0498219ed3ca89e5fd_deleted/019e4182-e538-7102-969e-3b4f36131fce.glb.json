@@ -1,0 +1,23 @@
+{
+    "asset": "1d0fc41a4ced8e0498219ed3ca89e5fd",
+    "fileName": "019e4182-e538-7102-969e-3b4f36131fce.glb",
+    "prompt": "Stylized NYC convenience store, low poly.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "1ac68f4a63a405145ad5a37f983d1f86",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

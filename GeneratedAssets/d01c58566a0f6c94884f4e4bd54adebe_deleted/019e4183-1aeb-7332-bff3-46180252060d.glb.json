@@ -1,0 +1,23 @@
+{
+    "asset": "d01c58566a0f6c94884f4e4bd54adebe",
+    "fileName": "019e4183-1aeb-7332-bff3-46180252060d.glb",
+    "prompt": "Stylized NYC subway entrance, low poly.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "01d81c2edbd7ad443a5c5a7ba93a525c",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

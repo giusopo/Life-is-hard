@@ -1,0 +1,28 @@
+{
+    "asset": "649ffedc389737c4aaafbc1888f0da3c",
+    "fileName": "019e41a2-7e57-75e5-8c73-bce080f62a7a.jpg",
+    "prompt": "Stylized New York City sidewalk segment with curb, semi-cartoon, clean shapes, low poly, Lower Manhattan style, white background, isometric view.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

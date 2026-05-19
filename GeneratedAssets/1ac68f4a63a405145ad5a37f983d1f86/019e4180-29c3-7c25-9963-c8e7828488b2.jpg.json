@@ -1,0 +1,28 @@
+{
+    "asset": "1ac68f4a63a405145ad5a37f983d1f86",
+    "fileName": "019e4180-29c3-7c25-9963-c8e7828488b2.jpg",
+    "prompt": "Concept art for a stylized NYC convenience store building, neon signs, bright lights, low poly, urban NYC style, colorful, front view, isolated on white background.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

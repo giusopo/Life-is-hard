@@ -1,0 +1,28 @@
+{
+    "asset": "eff7b85d15bbcf740be275f61a0f63f7",
+    "fileName": "019e4180-2cf2-7248-a3f5-8fe7910fe8c7.jpg",
+    "prompt": "Concept art for stylized garbage bags and piles of trash, colorful, low poly, clean silhouettes, isolated on white background.",
+    "negativePrompt": "",
+    "model": "flux-2-pro",
+    "modelName": "Flux 2 (Pro)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
