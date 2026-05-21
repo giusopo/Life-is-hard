@@ -1,0 +1,23 @@
+{
+    "asset": "5bea27db6b459c047b1addcba1175335",
+    "fileName": "019e4a06-4732-70a8-a06d-9f487991c1ac.glb",
+    "prompt": "A New York tenement building, realistic architecture, multiple stories, fire escapes, brick texture, detailed windows and doors, matching the style of the provided reference image. High detail 3D model.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "656872f4e4a54aa449355fa0f2d73683",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

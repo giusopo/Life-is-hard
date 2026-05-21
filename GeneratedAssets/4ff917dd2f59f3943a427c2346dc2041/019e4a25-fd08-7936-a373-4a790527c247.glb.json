@@ -1,0 +1,23 @@
+{
+    "asset": "4ff917dd2f59f3943a427c2346dc2041",
+    "fileName": "019e4a25-fd08-7936-a373-4a790527c247.glb",
+    "prompt": "Flattened cardboard box with a sleeping bag, homeless spot.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "4eb5b6d98df17434ab1bc6b98398f756",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

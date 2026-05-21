@@ -1,0 +1,12 @@
+{
+    "asset": "35303f87ba2bc7141bd049078bc0b3d9",
+    "fileName": "019e4bd0-c5ed-703d-90d6-641f705cbca9_Preview.jpg",
+    "prompt": "Stylized toony water texture, tileable, vibrant blue with white foam patterns, low-poly aesthetic.",
+    "negativePrompt": "",
+    "model": "realistic-textures-3-0",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 1797507440,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

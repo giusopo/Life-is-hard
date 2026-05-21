@@ -1,0 +1,23 @@
+{
+    "asset": "81b4172ea55f2ae429e225fc68dda778",
+    "fileName": "019e4bce-40b0-7a13-98e9-48164168ceef.glb",
+    "prompt": "Generate a 3D low-poly stylized artistic fountain based on the reference image. Toony style, clean geometry, multiple tiers, matches the aesthetic of the provided concept. Public park asset.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "7cff17f5a67a83c4c9616a6b2d605c7e",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "0621a88783db6ae47a9f7c4d9497b31f",
+    "fileName": "019e4c9f-029e-7db1-9fa1-aa4b5825863d_Preview.png",
+    "prompt": "Stylized cartoon water texture, smooth pastel blue, subtle concentric ripple patterns, no foam, no bubbles, tileable, toony style.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 1831139209,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

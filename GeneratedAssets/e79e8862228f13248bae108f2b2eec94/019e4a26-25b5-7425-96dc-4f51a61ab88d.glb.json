@@ -1,0 +1,23 @@
+{
+    "asset": "e79e8862228f13248bae108f2b2eec94",
+    "fileName": "019e4a26-25b5-7425-96dc-4f51a61ab88d.glb",
+    "prompt": "Modular black iron park fence segment, stylized.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "9d4cafa93f8893c4a8b601c797a96474",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "c952bacf21dc86b4aa9d8fa6f1e83b0f",
+    "fileName": "019e4c85-58ff-7caa-86e7-d9a41b97248e_Preview.png",
+    "prompt": "Stylized cartoon stone texture for a fountain pedestal, hand-painted, light grey and beige, smooth with gentle shadows, clean, tileable.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 213257224,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

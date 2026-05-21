@@ -1,0 +1,12 @@
+{
+    "asset": "afb395ebd4f9406408c10ed57f2f620b",
+    "fileName": "019e4c81-b00e-75b9-ad65-c15b6d743ab0_Preview.jpg",
+    "prompt": "Hand-painted stone texture for an artistic fountain, light grey and beige tones, stylized, toony, tileable, clean.",
+    "negativePrompt": "",
+    "model": "hand-painted-textures-2-0",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 1615931515,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

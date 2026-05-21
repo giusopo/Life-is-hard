@@ -1,0 +1,12 @@
+{
+    "asset": "0a1f89d751c70084a8f377b16a408673",
+    "fileName": "019e4c83-79ab-74f6-bdb3-8696099acf1e_Preview.png",
+    "prompt": "Minimalist cartoon stone texture, hand-painted, smooth light grey and cream colors, clean look, no cracks, tileable, stylized toony style.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 653866331,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

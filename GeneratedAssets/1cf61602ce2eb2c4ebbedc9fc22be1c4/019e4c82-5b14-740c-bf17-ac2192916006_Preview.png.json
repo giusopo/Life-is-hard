@@ -1,0 +1,12 @@
+{
+    "asset": "1cf61602ce2eb2c4ebbedc9fc22be1c4",
+    "fileName": "019e4c82-5b14-740c-bf17-ac2192916006_Preview.png",
+    "prompt": "Clean pastel blue water texture, uniform soft color, no foam, no white lines, very subtle ripples, tileable, stylized cartoon style, for a peaceful park fountain.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 761143721,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

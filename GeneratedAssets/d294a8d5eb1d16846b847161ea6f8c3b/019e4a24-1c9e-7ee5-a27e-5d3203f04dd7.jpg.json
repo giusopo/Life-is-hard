@@ -1,0 +1,28 @@
+{
+    "asset": "d294a8d5eb1d16846b847161ea6f8c3b",
+    "fileName": "019e4a24-1c9e-7ee5-a27e-5d3203f04dd7.jpg",
+    "prompt": "A single small, stylized pigeon bird in a standing pose. Isolated on a plain white background. Side view. 3D game asset style.",
+    "negativePrompt": "",
+    "model": "stylized-3d",
+    "modelName": "Stylized 3D",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

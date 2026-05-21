@@ -1,0 +1,23 @@
+{
+    "asset": "3906a07b9ea88ec4e86b2190e776195c",
+    "fileName": "019e4a12-2adf-7b2a-9dee-ead2c91cbd03.glb",
+    "prompt": "A high-quality 3D architectural model of a New York tenement. The building must be a perfect rectangular box with straight, vertical walls and sharp 90-degree corners. The facade should feature symmetrical rows of windows and a detailed fire escape. Texture should be a clean red brick. No geometry distortions. High-detail facade, optimized for game maps. Frontal reference image provided. Generate a complete 4-sided building.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "656872f4e4a54aa449355fa0f2d73683",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

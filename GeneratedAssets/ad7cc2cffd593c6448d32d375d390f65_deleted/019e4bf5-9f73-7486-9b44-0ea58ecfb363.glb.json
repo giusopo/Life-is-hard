@@ -1,0 +1,23 @@
+{
+    "asset": "ad7cc2cffd593c6448d32d375d390f65",
+    "fileName": "019e4bf5-9f73-7486-9b44-0ea58ecfb363.glb",
+    "prompt": "Generate a 3D low-poly stylized artistic fountain based on the reference image. Toony style, clean geometry, multiple stone tiers. IMPORTANT: Do NOT include any static water columns, falling water cylinders, or water representations in the 3D structure. Only the stone/fountain structure itself. Matches the aesthetic of the provided concept.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "7cff17f5a67a83c4c9616a6b2d605c7e",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

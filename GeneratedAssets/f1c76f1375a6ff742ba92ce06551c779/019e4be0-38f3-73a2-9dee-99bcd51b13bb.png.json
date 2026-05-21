@@ -1,0 +1,28 @@
+{
+    "asset": "f1c76f1375a6ff742ba92ce06551c779",
+    "fileName": "019e4be0-38f3-73a2-9dee-99bcd51b13bb.png",
+    "prompt": "Stylized water texture with vertical foam lines and bubbles, tileable, blue and white, toony game style, for waterfall and flowing water.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

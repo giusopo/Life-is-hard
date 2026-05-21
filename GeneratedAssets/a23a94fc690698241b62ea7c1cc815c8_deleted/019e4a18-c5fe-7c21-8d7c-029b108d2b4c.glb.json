@@ -1,0 +1,23 @@
+{
+    "asset": "a23a94fc690698241b62ea7c1cc815c8",
+    "fileName": "019e4a18-c5fe-7c21-8d7c-029b108d2b4c.glb",
+    "prompt": "High-fidelity 3D hero asset of a New York tenement building. The facade must feature 5 floors with perfectly aligned, recessed windows, each with detailed stone sills and lintels. A prominent green metal fire escape must be centrally attached to the facade, aligned with the windows. The ground floor includes a central entrance door, large display windows, and colorful fabric awnings. Texture: realistic weathered red brick. Geometry: sharp 90-degree corners, perfectly flat walls, and a decorative projecting cornice at the roofline. Symmetrical and structurally sound. Optimized for close-up viewing in a video game. Frontal view reconstruction from the reference image.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "656872f4e4a54aa449355fa0f2d73683",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

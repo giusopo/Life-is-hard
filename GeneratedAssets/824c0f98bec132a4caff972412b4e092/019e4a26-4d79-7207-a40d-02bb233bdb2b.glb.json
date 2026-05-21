@@ -1,0 +1,23 @@
+{
+    "asset": "824c0f98bec132a4caff972412b4e092",
+    "fileName": "019e4a26-4d79-7207-a40d-02bb233bdb2b.glb",
+    "prompt": "Stylized large rock, low-poly, gray with moss.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "66ccfeba2d4199642a5ba13e854aa18c",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

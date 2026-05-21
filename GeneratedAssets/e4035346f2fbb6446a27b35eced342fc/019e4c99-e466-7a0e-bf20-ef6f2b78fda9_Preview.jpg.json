@@ -1,0 +1,12 @@
+{
+    "asset": "e4035346f2fbb6446a27b35eced342fc",
+    "fileName": "019e4c99-e466-7a0e-bf20-ef6f2b78fda9_Preview.jpg",
+    "prompt": "Hand-painted stone bricks for a fountain pedestal, light grey, toony style, tileable, clean, stylized.",
+    "negativePrompt": "",
+    "model": "hand-painted-textures-2-0",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": 1902179036,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

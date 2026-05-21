@@ -1,0 +1,23 @@
+{
+    "asset": "2e3520e8a156157408ebdbc169660ab6",
+    "fileName": "019e4a27-962e-7bd0-8e9b-57c29b8431e2.glb",
+    "prompt": "Stylized city sewer vent manhole.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "c54b93d20137a034496b22805aac1b0d",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

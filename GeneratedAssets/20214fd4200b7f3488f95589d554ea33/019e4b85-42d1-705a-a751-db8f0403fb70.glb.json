@@ -1,0 +1,23 @@
+{
+    "asset": "20214fd4200b7f3488f95589d554ea33",
+    "fileName": "019e4b85-42d1-705a-a751-db8f0403fb70.glb",
+    "prompt": "A stylized red-brick apartment building with a water tank on the roof and fire escapes on the side, matching the provided image. Urban style, toony but detailed textures.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "7c2f4daaa6e41e847a2883e9d2764c13",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

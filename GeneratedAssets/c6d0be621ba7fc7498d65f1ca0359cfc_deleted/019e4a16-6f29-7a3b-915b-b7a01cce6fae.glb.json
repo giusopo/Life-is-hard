@@ -1,0 +1,23 @@
+{
+    "asset": "c6d0be621ba7fc7498d65f1ca0359cfc",
+    "fileName": "019e4a16-6f29-7a3b-915b-b7a01cce6fae.glb",
+    "prompt": "High-quality 3D model of a 4-story New York tenement building. The model must have clean, perfectly straight architectural lines and sharp 90-degree corners. Facade includes: 4 vertical columns of windows, a central green metal fire escape with detailed railing, and a decorative roof cornice. Ground floor features a wooden door and colorful awnings (yellow, red, green). Texture must be a detailed red brick masonry. Avoid all geometric smearing or blobbiness. Ensure the building is a complete rectangular solid with distinct, symmetrical floor levels. Optimized for urban environment mapping. Accurate architectural reconstruction of the provided concept.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "656872f4e4a54aa449355fa0f2d73683",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

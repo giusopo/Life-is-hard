@@ -1,0 +1,12 @@
+{
+    "asset": "4ddb5c79e3f3a4a428c8277a7f54c999",
+    "fileName": "019e4c82-ed4e-7d04-a310-a408643d20ec_Preview.png",
+    "prompt": "Stylized toony stone material for a park fountain, smooth cream and light grey colors, hand-painted look, clean, minimal detail, tileable.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 10761246,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

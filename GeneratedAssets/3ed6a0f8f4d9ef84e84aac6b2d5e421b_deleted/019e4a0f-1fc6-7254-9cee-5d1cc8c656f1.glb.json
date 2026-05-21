@@ -1,0 +1,23 @@
+{
+    "asset": "3ed6a0f8f4d9ef84e84aac6b2d5e421b",
+    "fileName": "019e4a0f-1fc6-7254-9cee-5d1cc8c656f1.glb",
+    "prompt": "New York tenement building, high quality, clean facade, fire escapes, brick texture. Symmetrical architecture. Front view.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "656872f4e4a54aa449355fa0f2d73683",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

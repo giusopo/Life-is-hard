@@ -1,0 +1,23 @@
+{
+    "asset": "edb1dd83ab5d1ae40b9f6fb7b9185841",
+    "fileName": "019e4a25-ea2c-7bb2-98cb-c7ff5dcaf99f.glb",
+    "prompt": "Vintage stylized street lamp post, black metal.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "0a0c23eadcecebd4d85bc8b30572fd17",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

@@ -1,0 +1,28 @@
+{
+    "asset": "66ccfeba2d4199642a5ba13e854aa18c",
+    "fileName": "019e4a23-f2a6-729d-9082-d7ac770aa465.jpg",
+    "prompt": "A single stylized, low-poly large rock, smooth edges, hand-painted texture, gray with subtle moss. Isolated on a plain white background. Front view. 3D game asset style.",
+    "negativePrompt": "",
+    "model": "stylized-3d",
+    "modelName": "Stylized 3D",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

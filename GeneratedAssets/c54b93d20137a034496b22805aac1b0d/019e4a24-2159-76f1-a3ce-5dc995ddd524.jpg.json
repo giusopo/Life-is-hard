@@ -1,0 +1,28 @@
+{
+    "asset": "c54b93d20137a034496b22805aac1b0d",
+    "fileName": "019e4a24-2159-76f1-a3ce-5dc995ddd524.jpg",
+    "prompt": "A circular city sewer manhole cover with a small steam vent grate. Isolated on a plain white background. Top-down view. 3D game asset style.",
+    "negativePrompt": "",
+    "model": "stylized-3d",
+    "modelName": "Stylized 3D",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,23 @@
+{
+    "asset": "4aeba49c8437e1e4bb36c1d55184bfdc",
+    "fileName": "019e4a14-365c-7d2e-a08f-2864de8ab006.glb",
+    "prompt": "High-fidelity 3D model of a New York tenement building. Facade features perfectly aligned rows of 4x5 windows with detailed stone sills and lintels. A prominent green metal fire escape is structurally attached to the right side of the facade. Detailed ground floor with a central entrance door. Roof features a decorative cornice. Realistic red brick texture with natural variation. Clean, straight geometry, no smearing or artifacts. Optimized for game use with distinct architectural features. Architecture matches the provided reference.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "656872f4e4a54aa449355fa0f2d73683",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

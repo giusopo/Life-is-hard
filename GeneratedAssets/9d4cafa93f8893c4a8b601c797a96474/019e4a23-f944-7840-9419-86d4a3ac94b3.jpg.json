@@ -1,0 +1,28 @@
+{
+    "asset": "9d4cafa93f8893c4a8b601c797a96474",
+    "fileName": "019e4a23-f944-7840-9419-86d4a3ac94b3.jpg",
+    "prompt": "A single modular piece of a black iron ornamental fence, stylized and elegant. Isolated on a plain white background. Front view. 3D game asset style.",
+    "negativePrompt": "",
+    "model": "stylized-3d",
+    "modelName": "Stylized 3D",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

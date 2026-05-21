@@ -1,0 +1,23 @@
+{
+    "asset": "f86a8092aa3a7c74489cd53e7c8e5f78",
+    "fileName": "019e4c06-d13a-7ff9-bee9-80198490b192.glb",
+    "prompt": "Artistic stone fountain, public park style, multiple tiers. STONE STRUCTURE ONLY. ABSOLUTELY NO WATER, NO BLUE MESHES, NO VERTICAL COLUMNS, NO LIQUID. Just the carved stone basins and central pillar. Matches Tiny Toony City style. High detail stone texture.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "7cff17f5a67a83c4c9616a6b2d605c7e",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

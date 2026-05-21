@@ -1,0 +1,12 @@
+{
+    "asset": "5bfbb1c4545d45547b56b0b2cc183c5c",
+    "fileName": "019e4c84-1328-74de-ab41-5e02e71382d8_Preview.png",
+    "prompt": "Light grey hand-painted stone texture, stylized toony style, clean stone blocks, no moss, no cracks, tileable, for a city fountain.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 272356933,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

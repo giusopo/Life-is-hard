@@ -1,0 +1,12 @@
+{
+    "asset": "1ec03b33b98c5d747a2a96fa53ffa52d",
+    "fileName": "019e4c82-5d27-7188-8eab-5f13b557bdf6_Preview.png",
+    "prompt": "Stylized hand-painted stone texture for a park fountain, light beige and cream colors, visible stone blocks and mortar, toony, clean, tileable.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 147347530,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

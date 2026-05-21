@@ -1,0 +1,23 @@
+{
+    "asset": "7889f1b0cb92f354ea59984e6c710fe2",
+    "fileName": "019e4b81-8e17-7af6-9b87-61ebc389b8ec.glb",
+    "prompt": "Generate a 3D low-poly stylized city building based on the reference image. Toony style, clean geometry, matches the aesthetic of the provided concept. Italian city palace.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "b9f438015b1260d4e954b2ae0d062d5e",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

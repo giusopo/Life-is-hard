@@ -1,0 +1,38 @@
+{
+    "asset": "b9f438015b1260d4e954b2ae0d062d5e",
+    "fileName": "019e4b80-0d85-77ec-a346-5f72176cb771.png",
+    "prompt": "Concept art of a low-poly stylized Italian city palace (palazzo di città), toony style, front view, clean lines, matches Tiny Toony City aesthetic, vibrant but stylized colors, on a plain white background. Full building visible.",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "192885429fbe4974fbbafa38563e959d",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,23 @@
+{
+    "asset": "a745c44abd0b29a418c3f1348c2b8100",
+    "fileName": "019e4a28-323d-7311-8539-5d7b616b2e2f.glb",
+    "prompt": "Small clump of stylized tulips, colorful.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "15bdeea45dbf5cb408595e7362a2e31b",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

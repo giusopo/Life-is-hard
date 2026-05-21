@@ -1,0 +1,38 @@
+{
+    "asset": "7cff17f5a67a83c4c9616a6b2d605c7e",
+    "fileName": "019e4bcc-1786-7621-b166-a5f95e8b3e36.png",
+    "prompt": "Concept art of an artistic public park fountain, low-poly stylized toony style, multiple tiers with splashing water effects, clean lines, matches Tiny Toony City aesthetic, vibrant colors, on a plain white background. Full object visible.",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "192885429fbe4974fbbafa38563e959d",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

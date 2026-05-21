@@ -1,0 +1,23 @@
+{
+    "asset": "9e30b5d06f49aff49ba25505b20a2ff2",
+    "fileName": "019e4a27-672e-7386-978b-328ea64fb516.glb",
+    "prompt": "Small stylized pigeon, standing.",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "d294a8d5eb1d16846b847161ea6f8c3b",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}
